@@ -1,0 +1,6 @@
+rootProject.name = 'monorepo-example'
+
+include 'java-project-1'
+include 'java-project-2'
+//include 'python-project-1'
+//include 'python-project-2'
